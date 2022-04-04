@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @makarovpro
 - 👀 I’m interested in ... Web design, Web development
 - 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ... All
+- 💞️ I’m looking to collaborate on ... Everyone
 - 📫 How to reach me ... eugene@makarov.pro
 
 <!---
