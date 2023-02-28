@@ -1,8 +1,8 @@
-👋 Hi, I’m @makarovpro
-👀 I’m interested in Web design, Web development
-🌱 I’m currently learning JavaScript
-💞️ I’m looking to collaborate on Everyone
-📫 How to reach me eugene@makarov.pro
+👋 Hi, I’m @makarovpro<br>
+👀 I’m interested in Web design, Web development<br>
+🌱 I’m currently learning JavaScript<br>
+💞️ I’m looking to collaborate on Everyone<br>
+📫 How to reach me eugene@makarov.pro<br>
 
 <!---
 makarovpro/makarovpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
