@@ -1,6 +1,6 @@
 👋 Hi, I’m @makarovpro<br>
 👀 I’m interested in Web design, Web development<br>
-🌱 I’m currently learning Node.js<br>
+🌱 I’m currently learning Git<br>
 💞️ I’m looking to collaborate on php, js, bitrix<br>
 📫 How to reach me eugene@makarov.pro<br>
 
